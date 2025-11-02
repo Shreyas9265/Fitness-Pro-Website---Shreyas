@@ -1,8 +1,8 @@
 
-  # 🏋️‍♂️ FitStrength Pro — AI-Generated Fitness Platform
+  # 🏋️‍♂️ FitStrength Pro —Web Fitness Platform
 
   An interactive **fitness and workout web app** designed with **Figma Make** and built using **React + TypeScript + Tailwind CSS**.
-  FitStrength Pro combines **AI-assisted design**, **modern UI components**, and **3D product visualization** to create an immersive experience for users exploring workouts and supplements.
+  FitStrength Pro combines **Web-assisted design**, **modern UI components**, and **3D product visualization** to create an immersive experience for users exploring workouts and supplements.
 
   **🔗 **Figma Design Prototype:** [View FitStrength Pro in Figma](https://www.figma.com/make/EV7SLfkPHLqG5ppAfuCu25/Fitness-Workout-Website?fullscreen=1)**
 
@@ -21,7 +21,7 @@
   - **Frontend:** React 18, TypeScript, Vite, Tailwind CSS
   - **UI Components:** shadcn-style components, lucide-react
   - **Animations & Notifications:** Sonner 2.0, Framer Motion
-  - **Design:** Figma Make (AI design generation)
+  - **Design:** Figma Make 
   - **Images:** Unsplash licensed assets
 
   ---
