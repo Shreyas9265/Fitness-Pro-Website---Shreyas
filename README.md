@@ -1,6 +1,9 @@
 
   # 🏋️‍♂️ FitStrength Pro —Web Fitness Platform
 
+**🔴 Live demo:** https://fitstrength-pro.vercel.app · source in [`fitstrength-pro/`](fitstrength-pro) (`npm install && npm run build`)
+
+
   An interactive **fitness and workout web app** designed with **Figma Make** and built using **React + TypeScript + Tailwind CSS**.
   FitStrength Pro combines **Web-assisted design**, **modern UI components**, and **3D product visualization** to create an immersive experience for users exploring workouts and supplements.
 
